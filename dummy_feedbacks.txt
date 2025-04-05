@@ -1,0 +1,24 @@
+feedback_id,first_name,last_name,feedback_string
+e8a16ea4-d320-44ec-8727-186ba14855bf,David,Yovan,"I have been trying to login to the app but every time it crashes at least twice before I'm finally able to login. And even after logging in, it gets frozen on the starting home screen for 5-10 seconds."
+c499a231-6bc3-4844-9b8b-4a131f3dcdfe,Hina,Josephin,"Hey team, can you please help me? Every time I login, the screen freezes for at least 20 seconds."
+f39db2be-75d7-43c8-bb4b-218e88598ffc,Raj,Singh,"I'm unable to take a screenshot of my payment receipt. And there's no option to export/share my payment receipt either. I want to log a transaction for my taxation purpose. How can I do it? This is so lame."
+
+
+
+
+
+
+
+
+
+
+
+how can I give bertopic-huggingface an instruction that classify this message/input in a way that returns an output which returns the list of concerns listed in the ticket (technical/business level) that the client is facing based on the feedback text-string? how do i send an input to BERTopic? 
+
+show me an end to end flow. 
+
+
+feedback_id,first_name,last_name,feedback_string
+e8a16ea4-d320-44ec-8727-186ba14855bf,David,Yovan,"I have been trying to login to the app but every time it crashes at least twice before I'm finally able to login. And even after logging in, it gets frozen on the starting home screen for 5-10 seconds."
+c499a231-6bc3-4844-9b8b-4a131f3dcdfe,Hina,Josephin,"Hey team, can you please help me? Every time I login, the screen freezes for at least 20 seconds."
+f39db2be-75d7-43c8-bb4b-218e88598ffc,Raj,Singh,"I'm unable to take a screenshot of my payment receipt. And there's no option to export/share my payment receipt either. I want to log a transaction for my taxation purpose. How can I do it? This is so lame."
